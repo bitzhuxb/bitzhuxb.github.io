@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PHP的 
+title: PHP中多维数组的搜索 
 categories:
 - Programming
 tags:
