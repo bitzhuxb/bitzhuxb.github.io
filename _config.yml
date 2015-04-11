@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://geeklu.com
-author: 卢克
+url: http://bitzhuxb.github.io
+author: 向斌 
 pygments: true
 paginate: 24
