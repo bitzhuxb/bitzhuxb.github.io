@@ -4,10 +4,11 @@ title: 深度剖析Java的字符编码
 categories:
 - Programming
 tags:
-- Java
+- PHP 
+- 算法
 ---
 
-> Java中的String在JVM运行时都是Unicode编码的
+Java中的String在JVM运行时都是Unicode编码的
 
 ### 字符集
 
