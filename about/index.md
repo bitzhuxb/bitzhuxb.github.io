@@ -8,7 +8,7 @@ comments: yes
 
 互联网BI(商业智能)从业者
 
-LNMP开发工程师一枚
+PHP开发工程师一枚，钟爱git、vim
 
 专注BI解决方案以及WEB性能优化
 
